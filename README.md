@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0055-jump-game/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -31,4 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0055-jump-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
