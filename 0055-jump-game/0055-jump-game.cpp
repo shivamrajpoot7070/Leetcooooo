@@ -4,13 +4,14 @@ public:
 
         int maxi=0;
 
-        if(arr.size()==1) return true;
+       // if(arr.size()==1) return true;
 
-        for(int i=0;i<arr.size()-1;i++){
+        for(int i=0;i<arr.size();i++){
 
             maxi=max(maxi,i+arr[i]);
 
             if(arr[i]==0){
+
                 if(maxi>=arr.size()-1) return true;
                 
                 if(maxi<=i) return false;
