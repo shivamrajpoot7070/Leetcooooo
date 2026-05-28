@@ -2,24 +2,27 @@ class Solution {
 public:
     int jump(vector<int>& arr) {
         
-        int curr=0;
-        int maxi=0;
+        if(arr.size()==1) return 0;
 
-        int jump=0;
+        int ct=1;
 
-        for(int i=0;i<arr.size();i++){
+
+        int curr=arr[0];
+
+        int maxi=arr[0];
+
+        for(int i=1;i<arr.size();i++){
 
             maxi=max(maxi,i+arr[i]);
 
-            if(i==curr || i==0){
-                if(i>=arr.size()-1){
-                    return jump;
-                }
-                jump++;
+            if(curr>=arr.size()-1) return ct;
+
+            if(i==curr){
+                ct++;
                 curr=maxi;
             }
         }
 
-        return jump;
+        return 0;
     }
 };
