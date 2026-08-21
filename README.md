@@ -8,6 +8,7 @@
 | [0055-jump-game](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0055-jump-game/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,24 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0055-jump-game/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
