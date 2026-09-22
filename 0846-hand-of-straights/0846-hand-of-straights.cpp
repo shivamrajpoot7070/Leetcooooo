@@ -45,7 +45,6 @@ public:
                         ct=1;
                     }
                     else{
-                        cout<<prev<<"->"<<it.first<<"->"<<" ";
                         ct+=1;
                         prev=it.first;
                         it.second--;
@@ -57,7 +56,6 @@ public:
 
                 if(ct==k){
                     prev=-1;
-                    cout<<"hi"<<" ";
                     ans+=1;
                     ct=1;
                     break;
