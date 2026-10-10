@@ -21,6 +21,7 @@
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,10 +43,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
