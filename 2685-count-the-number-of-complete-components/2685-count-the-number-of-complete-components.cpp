@@ -38,7 +38,6 @@ public:
                 unordered_map<int,int>ct;
                 int nod=1;
                 dfs(mpp,vis,ct,i,nod);
-                cout<<i<<" "<<nod<<" "<<ct.size()<<'\n';
                 if(ct.size()==1){
                     for(auto it:ct){
                         if(it.first==nod-1) ans+=1;
