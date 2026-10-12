@@ -13,6 +13,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +107,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
 <!---LeetCode Topics End-->
