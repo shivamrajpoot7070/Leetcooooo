@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0055-jump-game/) | Medium |
+| [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 | [0846-hand-of-straights](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0846-hand-of-straights/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0127-word-ladder/) | Hard |
+| [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
@@ -36,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0127-word-ladder/) | Hard |
+| [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 | [0846-hand-of-straights](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0846-hand-of-straights/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -43,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0127-word-ladder/) | Hard |
+| [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +119,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
