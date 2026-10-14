@@ -15,6 +15,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
+| [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -42,6 +44,7 @@
 | [0846-hand-of-straights](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0846-hand-of-straights/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,11 +55,13 @@
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -110,6 +115,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -123,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 <!---LeetCode Topics End-->
