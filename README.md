@@ -7,6 +7,7 @@
 | [0045-jump-game-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0055-jump-game/) | Medium |
 | [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0846-hand-of-straights](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0846-hand-of-straights/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
@@ -22,6 +23,7 @@
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0127-word-ladder/) | Hard |
 | [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
@@ -32,6 +34,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -53,6 +56,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -84,6 +88,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -106,6 +111,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
 ## Counting
@@ -115,6 +121,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Stack
@@ -133,4 +140,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
