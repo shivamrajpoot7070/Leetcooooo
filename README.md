@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0127-word-ladder/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0127-word-ladder/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 | [0846-hand-of-straights](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0846-hand-of-straights/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -55,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0127-word-ladder/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -142,6 +145,7 @@
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0752-open-the-lock/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
