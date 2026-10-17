@@ -14,6 +14,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -28,6 +29,7 @@
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -38,6 +40,7 @@
 | [0909-snakes-and-ladders](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -59,6 +62,7 @@
 | [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0841-keys-and-rooms](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0934-shortest-bridge/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
@@ -89,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -113,6 +118,7 @@
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1776-car-fleet-ii](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1776-car-fleet-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -122,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Stack
@@ -148,4 +155,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/shivamrajpoot7070/debugger_bro/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
